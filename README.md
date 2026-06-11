@@ -289,6 +289,8 @@ streamlit run app.py
 ---
 
 ## 📷 Output Screens
+<img width="1919" height="914" alt="Screenshot 2026-06-11 182127" src="https://github.com/user-attachments/assets/009c79c1-ab93-4225-bc1f-4fb4dedb4935" />
+
 
 * Home Dashboard
 * KPI Dashboard
