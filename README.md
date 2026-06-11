@@ -320,3 +320,10 @@ Sameera.sk
 AI Intelligent Sales Forecasting & Inventory Optimization System
 
 Built using Python, Streamlit, Machine Learning, Business Intelligence, and Data Analytics.
+
+---
+
+Live Link : https://crt-prj9-intelligent-sales-system.onrender.com
+
+
+---
